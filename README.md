@@ -1,16 +1,53 @@
-该项目基于 c11 使用 Visual Studio2019 开发，只适当少量使用了 c++ 独有特性。所有源程序完全符合 c11/c++11 标准，可以使用支持该标准的编译器编译通过。
+该项目基于 c11/c++11 使用 Visual Studio2019 开发。所有源程序完全符合 c11/c++11 标准，可以使用支持该标准的编译器编译通过。
+
+[编译示例](### 编译示例)
+
+[简单行编辑器](### 简单行编辑器)
+
+[集合运算](### 集合运算)
 
 --------
 
 ### 编译示例
 
-请务必将 main.cpp 和 set.cpp 联合编译，以下为 gcc9.3.0 示例：![g++编译运行示例](https://gitee.com/PDP11/img/raw/master/clip_image002.jpg)
+对于“简单行编辑器”，请务必将 main.cpp 和 edito.cpp 联合编译；
+对于集合运算，请务必将 main.cpp 和 set.cpp 联合编译，以下为 gcc9.3.0 示例：
 
-### 功能示例及测试
+<img src="https://gitee.com/PDP11/img/raw/master/image-20210110220623519.png" alt="简单行编辑器"  />
+
+![集合运算](https://gitee.com/PDP11/img/raw/master/clip_image002.jpg)
+
+### 简单行编辑器
+
+#### 功能示例及测试
+
+![文章输入](https://gitee.com/PDP11/img/raw/master/image-20210110220822018.png)
+
+![显示文章内容](https://gitee.com/PDP11/img/raw/master/image-20210110220854607.png)
+
+![统计文章内容](https://gitee.com/PDP11/img/raw/master/image-20210110220927510.png)
+
+![查找字符串](https://gitee.com/PDP11/img/raw/master/image-20210110220957668.png)
+
+![删除字符串](https://i.loli.net/2021/01/10/CNm7fE5qVlv1L42.png)
+
+![删除行](https://gitee.com/PDP11/img/raw/master/image-20210110221644166.png)
+
+![保存文章](https://gitee.com/PDP11/img/raw/master/image-20210110221811224.png)
+
+![清空文章](https://gitee.com/PDP11/img/raw/master/image-20210110221833097.png)
+
+![重新输入](https://gitee.com/PDP11/img/raw/master/image-20210110221858742.png)
+
+![退出](https://gitee.com/PDP11/img/raw/master/image-20210110221924974.png)
+
+### 集合运算
+
+#### 功能示例及测试
 
 ![功能示例](https://gitee.com/PDP11/img/raw/master/20210107211003.png)
 
-### 错误输入示例
+#### 错误输入示例
 
 ![错误输入示例](https://gitee.com/PDP11/img/raw/master/20210107211216.png)
 
