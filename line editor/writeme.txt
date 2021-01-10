@@ -1,0 +1,11 @@
+e series AR model, principal compo
+ processing and prediction of relevant quantitative data, 
+ comprehensively evaluate the directly impacts of the two 
+ candidates election, Trump and Biden, on the U.S. 
+ Based on the time series AR model, principal compo
+ nent analysis comprehensive evaluation model, 
+ time series ARIMA (p, d, q) model, AHP model, and 
+  data visualization analysis methods, through the 
+ processing and prediction of relevant quantitative data, 
+ comprehensively evaluate the directly impacts of the two 
+ candidates election, Trump and Biden, on the U.S. 
